@@ -17,6 +17,7 @@ const pgResponse = getepayPortal(data,Config);
 
 ## Schema Of Arguments
 
+```sh
 const data = {
   mid                     : <Getepay_MID Provided by Getepay>,
   amount                  : "<Amount>",
@@ -51,3 +52,4 @@ const Config = {
   "GetepayIV"         : "<Getepay_IV Provided by Getepay>",
   "GetepayUrl"        : "<Getepay_Payment_RequestURL Provided by Getepay>",
 };
+```

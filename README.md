@@ -1,6 +1,6 @@
 ## Prerequisites
  - Learn about the Getepay Payment Flow.
- - Sign up for a <a href="#">Getepay Account</a> and generate the <a href="#" target="_blank">API Keys</a> from the Getepay Dashboard. Using the Test keys helps simulate a sandbox environment. No actual monetary transaction happens when using the Test keys. Use Live keys once you have thoroughly tested the application and are ready to go live.
+ - Sign up for a <a href="#">Getepay Account</a> and generate the <a href="#" target="_blank">Payment Request URL, MID, KEY, IV and Terminal ID</a> from the Getepay Dashboard. Using the Test keys helps simulate a sandbox environment. No actual monetary transaction happens when using the Test keys. Use Live keys once you have thoroughly tested the application and are ready to go live.
 
 ## You can use getepay payment geteway with this package firstly.
 
